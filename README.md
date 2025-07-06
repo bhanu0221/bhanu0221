@@ -13,7 +13,7 @@
   - 📱 +91 9258597234  
 - 📍 Location: Haridwar, Uttarakhand, India  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love building smart solutions for everyday problems and enjoy long bike rides in the hills  
+- ⚡ Fun fact: I love building smart solutions for everyday problems and enjoy travaling   
 
 ---
 
