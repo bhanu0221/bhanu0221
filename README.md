@@ -9,8 +9,9 @@
 - 💼 Projects: Online Lost & Found System | Chatbot with Python, Flask and Pandas  
 - 💞️ I’m looking to collaborate on beginner-friendly open source projects in web or data  
 - 📫 Reach me at:  
-  - 📧 bhanushahi70@gmail.com  
-  - 📱 +91 9258597234  
+- 📧 bhanushahi70@gmail.com  
+-https://www.linkedin.com/in/anupshahi-50486530a
+- 📱 +91 9258597234  
 - 📍 Location: Haridwar, Uttarakhand, India  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love building smart solutions for everyday problems and enjoy travaling.
