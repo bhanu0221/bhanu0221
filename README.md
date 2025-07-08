@@ -10,6 +10,7 @@
 - 💞️ I’m looking to collaborate on beginner-friendly open source projects in web or data  
 - 📫 Reach me at:  
 - 📧 bhanushahi70@gmail.com  
+
 -https://www.linkedin.com/in/anup-shahi-50486530a
 - 📱 +91 9258597234  
 - 📍 Location: Haridwar, Uttarakhand, India  
