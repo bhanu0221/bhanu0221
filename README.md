@@ -31,7 +31,7 @@
 
 ---
 
-![snake gif](https://github.com/bhanu0221/bhanu0221/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/bhanu0221/bhanu0221/blob/output/snake.svg)
 
 
 ---
