@@ -1,8 +1,5 @@
 # Anup Shahi 👋
-
-<p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Anup Shahi Banner"/>
-</p>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 > BCA Graduate • Aspiring for Frontend Developer (React) • Learning Different Tech skills.
 
