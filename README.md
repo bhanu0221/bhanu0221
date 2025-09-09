@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://www.freepik.com/free-vector/artificial-intelligence-concept-twitch-banner_42089906.htm#fromView=keyword&page=1&position=0&uuid=eecf66a3-b108-4b90-988b-95c18bcd7e57&query=Linkedin+banner+coding" alt="Banner" width="100%" />
-</p>
 
-# Anup Shahi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <h1>Anup Shahi<h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 > BCA Graduate Student • Aspiring for Frontend Developer (React) • Learning Different Tech skills.
 
