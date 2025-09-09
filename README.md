@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://i.ibb.co/5RjchBg/github-banner.png](https://media.licdn.com/dms/image/v2/D4E16AQHGhl3CqB3w4A/profile-displaybackgroundimage-shrink_350_1400/B4EZhmV9vhHEAg-/0/1754063691937?e=1760572800&v=beta&t=w20WMY4hsQSN1lI2yh8nCxYotG_rDXHSlvt3ZO_4sKY)" alt="Banner" width="100%" />
+</p>
+
 # Anup Shahi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 > BCA Graduate Student • Aspiring for Frontend Developer (React) • Learning Different Tech skills.
