@@ -1,6 +1,6 @@
 # Anup Shahi 👋
 
-> BCA Graduate • Frontend Developer (React) • Learning Python & Flask
+> BCA Graduate • Aspiring for Frontend Developer (React) • Learning Different Tech skills.
 
 ---
 
@@ -9,8 +9,8 @@
 ### 🔭 About me
 
 * 🎓 BCA graduate from Doon Business School, Dehradun
-* 💻 Interested in **Web Development**, **Data Analysis**, and **Python projects**
-* 🌱 Currently learning: **Advanced JavaScript**, **Flask**, **Real-time Databases**
+* 💻 Interested in **Web Development**, **Data Analysis**, and **Full Stack projects**
+* 🌱 Currently learning: **Logic building in JavaScript**, **React js**, **Real-time Databases**
 * 💬 Pronouns: He/Him
 
 ---
@@ -26,28 +26,6 @@
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
-
----
-
-### 🚧 Projects (Pinned)
-
-> *Pin your best 3–4 repos to the profile. Replace the placeholders below with your real repos.*
-
-#### Online Lost & Found System
-
-* One-line: A small web app to report and search lost items (React + Flask + SQLite)
-* Quick demo: `https://your-demo-link` (optional)
-* Screenshot: `![screenshot](./images/lostfound.png)`
-
-#### Chatbot (Python + Flask)
-
-* One-line: A conversational chatbot using Pandas & Flask for backend responses
-* Screenshot: `![screenshot](./images/chatbot.png)`
-
-#### Data Analysis / Mini Project
-
-* One-line: Data cleaning & visualization of X dataset using Pandas & Matplotlib
-* Screenshot: `![screenshot](./images/data.png)`
 
 ---
 
@@ -68,59 +46,9 @@
 
 ---
 
-## ✅ Quick to-do checklist (copy this into your profile README or use as a personal checklist)
 
-**Quick wins (5–15 min)**
 
-* [ ] Update profile photo: clear headshot, circle crop, 400×400 or bigger
-* [ ] Rewrite short tagline (1 line) under your name
-* [ ] Pin 3–4 best repos (use "Customize your pins")
-* [ ] Add direct clickable contact badges/links (mailto and LinkedIn)
 
-**Medium (30–60 min)**
 
-* [ ] Replace project placeholders with real project names, descriptions & screenshots
-* [ ] Add `Live Demo` or `Video` links if available
-* [ ] Improve each repo's README: description, setup, run commands, screenshot
 
-**Long-term (days/weeks)**
 
-* [ ] Add at least 1 small, polished project (Portfolio website, ToDo app, Chatbot)
-* [ ] Contribute to open-source (fix docs, small PRs) to show activity
-* [ ] Keep weekly commits (small learning notes count)
-
----
-
-### 📚 Repo README checklist (for each project)
-
-* Short description (1–2 lines)
-* Screenshot / GIF of the app
-* Technologies used
-* How to run (commands) / Live demo link
-* What I learned (1–2 lines)
-* License (MIT/Apache) and `.gitignore`
-
----
-
-### 📝 How to add screenshots to a repo README
-
-1. Create a folder `/images` in that repo.
-2. Upload `project1.png` into `/images`.
-3. Use markdown: `![Project screenshot](./images/project1.png)`
-
----
-
-### 🧭 How to pin repos
-
-1. Go to your GitHub profile.
-2. Click **Customize your pins** (on the profile page).
-3. Select the top 3–6 repositories you want to highlight.
-
----
-
-If you want, I can:
-
-* Replace the placeholder project items with the actual names & one-line descriptions of your projects (paste them here), or
-* Generate a polished portfolio README specifically highlighting one repo as example (I’ll embed screenshots and commands if you provide them).
-
-Good luck — paste your project names (and a sentence each) if you want me to personalize this template further!
