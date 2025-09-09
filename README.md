@@ -1,6 +1,6 @@
 # Anup Shahi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-> BCA Graduate • Aspiring for Frontend Developer (React) • Learning Different Tech skills.
+> BCA Graduate Student • Aspiring for Frontend Developer (React) • Learning Different Tech skills.
 
 ---
 
@@ -9,9 +9,10 @@
 
 ### 🔭 About me
 
-* 🎓 BCA graduate from Doon Business School, Dehradun
+* 🎓 BCA graduate from Doon Business School, Dehradun, Uttarakhand.
 * 💻 Interested in **Web Development**, **Data Analysis**, and **Full Stack projects**
-* 🌱 Currently learning: **Logic building in JavaScript**, **React js**, **Real-time Databases**
+* 🌱 Currently learning: **Advance JavaScript**, **React js**, **Real-time Databases**
+* 💕 Looking for Entry-level position in Web Dev or Software Developer.
 * 💬 Pronouns: He/Him
 
 ---
