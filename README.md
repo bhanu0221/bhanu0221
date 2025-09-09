@@ -1,5 +1,4 @@
-# Anup Shahi 👋
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Anup Shahi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 > BCA Graduate • Aspiring for Frontend Developer (React) • Learning Different Tech skills.
 
@@ -27,6 +26,11 @@
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
+
+---
+
+![snake gif](https://github.com/bhanu0221/bhanu0221/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
