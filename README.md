@@ -31,8 +31,7 @@
 
 ---
 
-![Snake animation](https://github.com/bhanu0221/bhanu0221/blob/output/snake.svg)
-
+![Snake animation](https://github.com/bhanu0221/bhanu0221/raw/output/snake.svg)
 
 ---
 
