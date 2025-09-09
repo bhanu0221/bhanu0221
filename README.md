@@ -37,7 +37,6 @@
 ### 📈 GitHub Stats
 
 <p>
-  <img align="left" alt="Anup's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bhanu0221&show_icons=true&theme=radical" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu0221&layout=compact&theme=tokyonight" />
 </p>
 
