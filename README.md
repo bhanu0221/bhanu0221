@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.ibb.co/5RjchBg/github-banner.png](https://media.licdn.com/dms/image/v2/D4E16AQHGhl3CqB3w4A/profile-displaybackgroundimage-shrink_350_1400/B4EZhmV9vhHEAg-/0/1754063691937?e=1760572800&v=beta&t=w20WMY4hsQSN1lI2yh8nCxYotG_rDXHSlvt3ZO_4sKY)" alt="Banner" width="100%" />
+  <img src="https://www.freepik.com/free-vector/artificial-intelligence-concept-twitch-banner_42089906.htm#fromView=keyword&page=1&position=0&uuid=eecf66a3-b108-4b90-988b-95c18bcd7e57&query=Linkedin+banner+coding" alt="Banner" width="100%" />
 </p>
 
 # Anup Shahi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
