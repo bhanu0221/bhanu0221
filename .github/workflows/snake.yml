@@ -3,22 +3,22 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"   # runs every day at midnight UTC
-  workflow_dispatch:       # allows manual trigger
+  workflow_dispatch:       # lets you run manually
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: bhanu0221
-          outputs: dist/snake.svg
+          svg_out_path: dist/snake.svg
 
-      - name: Push to output branch
+      - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
