@@ -1,5 +1,5 @@
 
-# <h1 style="font-familiy: italic">Anup Shahi<h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Anup Shahi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 > BCA Graduate Student • Aspiring for Frontend Developer (React) • Learning Different Tech skills.
 
