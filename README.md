@@ -1,5 +1,9 @@
 # Anup Shahi 👋
 
+<p align="center">
+  <img src="https://your-image-link.com/banner.png" alt="Anup Shahi Banner"/>
+</p>
+
 > BCA Graduate • Aspiring for Frontend Developer (React) • Learning Different Tech skills.
 
 ---
