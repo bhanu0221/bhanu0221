@@ -15,6 +15,7 @@
 * 🌱 Currently learning: **Advance JavaScript**, **React js**, **Real-time Databases**
 * 💕 Looking for Entry-level position in Web Dev or Software Developer.
 * 💬 Pronouns: He/Him
+* Thought 💭 -> Fear asks, "What if I fail?" Regret asks, "What if I had tried?"
 
 ---
 
