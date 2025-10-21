@@ -48,7 +48,7 @@
 * Email: [bhanu0221@gmail.com](mailto:bhanu0221@gmail.com)
 * LinkedIn: [Anup Shahi](https://www.linkedin.com/in/anup-shahi-50486530a)
 * Phone: `+91 9258597234`
-[visit my Portfolio 👉](https://my-portfolio-anup.vercel.app/)
+visit my Portfolio 👉[Click Here.](https://my-portfolio-anup.vercel.app/)
 
 ---
 
