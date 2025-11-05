@@ -45,7 +45,7 @@
 
 ### 📫 Contact
 
-* Email: [bhanu0221@gmail.com](mailto:bhanu0221@gmail.com)
+* Email: Bhanushahi70@gmail.com
 * LinkedIn: [Anup Shahi](https://www.linkedin.com/in/anup-shahi-50486530a)
 * Phone: `+91 9258597234`
 
