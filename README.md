@@ -4,8 +4,9 @@
 
 ---
 <img src="https://i.pinimg.com/736x/f4/a1/05/f4a1053ad92ce2569d9f72fd09368dcf.jpg" width="1000px">
-
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/dd64a78d-3ebb-4c2e-9619-49aa6706e86e" />
+<video controls width="720" height="414" alt="video">
+    <source src="https://github.com/user-attachments/assets/dd64a78d-3ebb-4c2e-9619-49aa6706e86e" type="video/mp4">
+  </video>
 
 ### 🔭 About me
 
