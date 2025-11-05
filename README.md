@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=3b82f6&lines=Hi+%F0%9F%91%8B+I'm+Anup+Shahi;Aspiring+For+Web+Developer+%E2%9C%A8;Learning+React.Js+%26+Node.js+%F0%9F%92%BB)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=3b82f6&lines=Hi+%F0%9F%91%8B+I'm+Anup+Shahi;Aspiring+For+Web+Developer+%E2%9C%A8;Learning+React.Js+%26+Node.js+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 > BCA Graduate Student • Aspiring for Frontend Developer (React) • Learning Different Tech skills.
 
