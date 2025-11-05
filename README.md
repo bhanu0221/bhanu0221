@@ -1,13 +1,10 @@
-
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=3b82f6&lines=Hi+%F0%9F%91%8B+I'm+Anup+Shahi;Aspiring+For+Web+Developer+%E2%9C%A8;Learning+React.Js+%26+Node.js+%F0%9F%92%BB)](https://git.io/typing-svg)
 # Anup Shahi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 > BCA Graduate Student • Aspiring for Frontend Developer (React) • Learning Different Tech skills.
 
 ---
 <img src="https://i.pinimg.com/736x/f4/a1/05/f4a1053ad92ce2569d9f72fd09368dcf.jpg" width="1000px">
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=3b82f6&lines=Hi+%F0%9F%91%8B+I'm+Anup+Shahi;Aspiring+For+Web+Developer+%E2%9C%A8;Learning+React.Js+%26+Node.js+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 ### 🔭 About me
