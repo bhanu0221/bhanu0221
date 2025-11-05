@@ -1,10 +1,10 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=3b82f6&lines=Hi+%F0%9F%91%8B+I'm+Anup+Shahi;Aspiring+For+Web+Developer+%E2%9C%A8;Learning+React.Js+%26+Node.js+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 > 😊Hi I am Anup shahi BCA Graduate Student • Aspiring for Frontend Developer (React) • Learning Different Tech skills.
-
+![My Awesome GIF](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 ---
 <img src="https://i.pinimg.com/736x/f4/a1/05/f4a1053ad92ce2569d9f72fd09368dcf.jpg" width="1000px">
-![My Awesome GIF](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
+
 ### 🔭 About me
 
 * 🎓 BCA graduate from Doon Business School, Dehradun, Uttarakhand.
