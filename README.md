@@ -4,10 +4,7 @@
 
 ---
 <img src="https://i.pinimg.com/736x/f4/a1/05/f4a1053ad92ce2569d9f72fd09368dcf.jpg" width="1000px">
-<video controls width="720" height="414" alt="video">
-    <source src="https://github.com/user-attachments/assets/dd64a78d-3ebb-4c2e-9619-49aa6706e86e" type="video/mp4">
-  </video>
-
+![My Awesome GIF](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 ### 🔭 About me
 
 * 🎓 BCA graduate from Doon Business School, Dehradun, Uttarakhand.
