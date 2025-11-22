@@ -5,7 +5,7 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
 
 
 ---
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpza3R3cmNteXk3bXQ3OTR2OWd5aXNiZzN2YTY4dTNpd20wY3p1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="300"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpza3R3cmNteXk3bXQ3OTR2OWd5aXNiZzN2YTY4dTNpd20wY3p1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="400"/>
 
 
 ---
