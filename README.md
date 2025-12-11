@@ -40,14 +40,6 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
 
 ---
 
-## 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu0221&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Contact
 
 - **Name:** Anup Shahi  
