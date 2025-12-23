@@ -50,3 +50,6 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ5cDEzcG92cmVoam01b3JqeHFidHRsY296dm5ueWFvcTF4b21zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DBPF1cNxSwrziGneX7/giphy.gif" width="400" alt="gif 1"/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk3NHNuZGRkMGh1YWV2dXpjYmw4cnV3Ym12a3h3Z2RodWQ1ejN2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d314tXXrfzPGqZlnMu/giphy.gif" width="400" alt="gif 2"/>
 </p>
+---
+
+## Thank you for visiting My profile.💕😁
