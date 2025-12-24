@@ -4,7 +4,7 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
 <p>I'm passionate about creating beautiful, responsive, and user-friendly web applications using modern technologies. Currently focused on mastering React, Node.js, and building end-to-end projects</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="600" alt="gif 1" style="border-radius: 30px;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="400" alt="gif 1" style="border-radius: 30px;"/>
 </p>
 
 ## 🔭 About Me
