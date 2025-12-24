@@ -1,6 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=3b82f6&lines=Hi+%F0%9F%91%8B+I'm+Anup+Shahi;Aspiring+Web+Developer+%E2%9C%A8;Learning+React+%26+Node.js+%F0%9F%92%BB)](https://git.io/typing-svg)
 ## <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30px"/> Hi, I'm **Anup Shahi**  
-BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about building modern and responsive web apps.
+Bachelor in computer application (BCA)
+Graduate Student  from Doon business school global University, Dehradun • Aspiring **Frontend Developer (React)** • Passionate about building modern and responsive web apps.
+“Web Development student | Aspiring for Software Developer”
 <p>I'm passionate about creating beautiful, responsive, and user-friendly web applications using modern technologies. Currently focused on mastering React, Node.js, and building end-to-end projects</p>
 
 ---
@@ -14,7 +16,7 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
 
 
 ##  <h1> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /> About Me</h1>
-- 🎓 BCA Graduate from **Doon Business School, Dehradun**
+- 🎓 BCA Graduate from **Doon Business School, Dehradun Year 2022 - 2025**
 - 💻 Interested in **Web Development**, **Data Analysis**, and **Full-Stack Projects**
 - 🌱 Currently learning: **Advanced JavaScript**, **React.js**, **Real-time Databases**
 - 💼 Looking for **Entry-Level Web Developer / Software Developer** roles
