@@ -7,7 +7,7 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="700px" alt="gif 1"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400px" alt="gif 1"/>
 </p>
 
 ---
