@@ -21,7 +21,7 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
 
 ---
 
-## <h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px"/> Tech & Tools</h2>
+## <h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> Tech & Tools</h2>
 
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -36,7 +36,7 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
 </p>
 
 ---
-## <h2><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20px"/>Contact</h2>
+## <h2><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px"/> Contact</h2>
 
 - **Name:** Anup Shahi  
 - **Location:** Haridwar, Uttarakhand  
