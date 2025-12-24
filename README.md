@@ -1,11 +1,11 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=3b82f6&lines=Hi+%F0%9F%91%8B+I'm+Anup+Shahi;Aspiring+Web+Developer+%E2%9C%A8;Learning+React+%26+Node.js+%F0%9F%92%BB)](https://git.io/typing-svg)
 ## 😊 Hi, I'm **Anup Shahi**  
 BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about building modern and responsive web apps.
----
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif" width="400" alt="gif 1"/>
 </p>
----
+
 ## 🔭 About Me
 - 🎓 BCA Graduate from **Doon Business School, Dehradun**
 - 💻 Interested in **Web Development**, **Data Analysis**, and **Full-Stack Projects**
@@ -13,7 +13,7 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
 - 💼 Looking for **Entry-Level Web Developer / Software Developer** roles
 - 💬 Pronouns: **He/Him**
 - 🧠 *“Fear asks: What if I fail? Regret asks: What if I had tried?”*
----
+- 
 ## <h1><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> Tech & Tools</h1>
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,7 +26,7 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="AI" src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
----
+
 ## <h1><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px"/> Contact</h1>
 - **Name:** Anup Shahi  
 - **Location:** Haridwar, Uttarakhand  
@@ -34,7 +34,7 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
 - **LinkedIn:** [Anup Shahi](https://www.linkedin.com/in/anup-shahi-50486530a)  
 - **Phone:** +91 9258597234  
 - **Portfolio:** 👉 [Click Here](https://my-portfolio-anup.vercel.app/)
----
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ5cDEzcG92cmVoam01b3JqeHFidHRsY296dm5ueWFvcTF4b21zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DBPF1cNxSwrziGneX7/giphy.gif" width="400" alt="gif 1"/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk3NHNuZGRkMGh1YWV2dXpjYmw4cnV3Ym12a3h3Z2RodWQ1ejN2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d314tXXrfzPGqZlnMu/giphy.gif" width="400" alt="gif 2"/>
