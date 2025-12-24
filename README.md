@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=3b82f6&lines=Hi+%F0%9F%91%8B+I'm+Anup+Shahi;Aspiring+Web+Developer+%E2%9C%A8;Learning+React+%26+Node.js+%F0%9F%92%BB)](https://git.io/typing-svg)
-## <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="25px"/>Hi, I'm **Anup Shahi**  
+## <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30px"/> Hi, I'm **Anup Shahi**  
 BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about building modern and responsive web apps.
 <p>I'm passionate about creating beautiful, responsive, and user-friendly web applications using modern technologies. Currently focused on mastering React, Node.js, and building end-to-end projects</p>
 
