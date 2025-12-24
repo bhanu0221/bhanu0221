@@ -1,4 +1,4 @@
-this is my GITGUB profile codes can you improve it for me best icons gifs to looks perfect banner etc. # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=3b82f6&lines=Hi+%F0%9F%91%8B+I'm+Anup+Shahi;Aspiring+Web+Developer+%E2%9C%A8;Learning+React+%26+Node.js+%F0%9F%92%BB)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=3b82f6&lines=Hi+%F0%9F%91%8B+I'm+Anup+Shahi;Aspiring+Web+Developer+%E2%9C%A8;Learning+React+%26+Node.js+%F0%9F%92%BB)](https://git.io/typing-svg)
 ## 😊 Hi, I'm **Anup Shahi**  
 BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about building modern and responsive web apps.
 ---
@@ -32,27 +32,11 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
 - **Location:** Haridwar, Uttarakhand  
 - **Email:** *bhanushahi70@gmail.com*  
 - **LinkedIn:** [Anup Shahi](https://www.linkedin.com/in/anup-shahi-50486530a)  
-- **Phone:** `+91 9258597234`  
+- **Phone:** +91 9258597234  
 - **Portfolio:** 👉 [Click Here](https://my-portfolio-anup.vercel.app/)
 ---
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ5cDEzcG92cmVoam01b3JqeHFidHRsY296dm5ueWFvcTF4b21zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DBPF1cNxSwrziGneX7/giphy.gif" width="400" alt="gif 1"/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk3NHNuZGRkMGh1YWV2dXpjYmw4cnV3Ym12a3h3Z2RodWQ1ejN2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d314tXXrfzPGqZlnMu/giphy.gif" width="400" alt="gif 2"/>
 </p>
-
-</div>
-
-<div align="center">
-🤝 Let's Work Together!
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
-
-<div align="center">
-⭐ Thank you for visiting my profile!
-If you find my work interesting, feel free to star and follow!
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" />
-Made with ❤️ by Anup Shahi
-</div>
+## Thank you for visiting My profile.💕😁
