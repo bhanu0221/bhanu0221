@@ -40,4 +40,5 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
 ## <div align="center">💝 Thank you for visiting my profile!</div>
 <div align="center">⭐ If you find my work interesting, feel free to star my repositories!</div>
 <h1 align="center"> Made with ❤️ by Anup Shahi</h1>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ5cDEzcG92cmVoam01b3JqeHFidHRsY296dm5ueWFvcTF4b21zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DBPF1cNxSwrziGneX7/giphy.gif" width="200" alt="gif />
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjllZnBha3VtdHIxeXltemU4czEwYWl0cGt6czl1M3VlYXNpbmZ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DBPF1cNxSwrziGneX7/giphy.gif" width="400" alt="gif />
