@@ -13,7 +13,7 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
 ---
 
 
-## 🔭 About Me
+##  <h1> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /> About Me</h1>
 - 🎓 BCA Graduate from **Doon Business School, Dehradun**
 - 💻 Interested in **Web Development**, **Data Analysis**, and **Full-Stack Projects**
 - 🌱 Currently learning: **Advanced JavaScript**, **React.js**, **Real-time Databases**
