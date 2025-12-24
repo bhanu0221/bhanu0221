@@ -42,4 +42,4 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
 
 ## <div align="center">💝 Thank you for visiting my profile!</div>
 ## <div align="center">⭐ If you find my work interesting, feel free to star my repositories!</div>
-## <h1 align="center">Made with ❤️ by Anup Shahi</h1>
+<h1 align="center">Made with ❤️ by Anup Shahi</h1>
