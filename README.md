@@ -5,7 +5,7 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
 
 ---
 <p align="center">
-  <img src="https://giphy.com/gifs/PizzaNinjas-coding-pizza-ninjas-pizzaninjas-jBOOXxSJfG8kqMxT11.gif" width="400" alt="gif 1"/>
+  <img src="" width="400" alt="gif 1"/>
 </p>
 
 ---
