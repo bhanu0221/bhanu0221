@@ -13,7 +13,7 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
 - 💼 Looking for **Entry-Level Web Developer / Software Developer** roles
 - 💬 Pronouns: **He/Him**
 - 🧠 *“Fear asks: What if I fail? Regret asks: What if I had tried?”*
-- 
+
 ## <h1><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> Tech & Tools</h1>
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -39,4 +39,10 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ5cDEzcG92cmVoam01b3JqeHFidHRsY296dm5ueWFvcTF4b21zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DBPF1cNxSwrziGneX7/giphy.gif" width="400" alt="gif 1"/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk3NHNuZGRkMGh1YWV2dXpjYmw4cnV3Ym12a3h3Z2RodWQ1ejN2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d314tXXrfzPGqZlnMu/giphy.gif" width="400" alt="gif 2"/>
 </p>
-## Thank you for visiting My profile.💕😁
+
+<div align="center">
+💝 Thank you for visiting my profile!
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" alt="wave">
+⭐ If you find my work interesting, feel free to star my repositories!
+Made with ❤️ by Anup Shahi
+</div>
