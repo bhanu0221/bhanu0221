@@ -36,7 +36,7 @@ BCA Graduate • Aspiring **Frontend Developer (React)** • Passionate about bu
 </p>
 
 ---
-## <h2><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px"/> Contact</h2>
+## <h1><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px"/> Contact</h1>
 
 - **Name:** Anup Shahi  
 - **Location:** Haridwar, Uttarakhand  
