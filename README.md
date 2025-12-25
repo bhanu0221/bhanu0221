@@ -45,7 +45,7 @@
 - **Name:** Anup Shahi  
 - **Location:** Haridwar, Uttarakhand  
 - **Email:** *bhanushahi70@gmail.com*  
-- **LinkedIn:** [Anup Shahi](www.linkedin.com/in/anupshahi07)  
+- **LinkedIn:** [Anup Shahi](https://www.linkedin.com/in/anupshahi07/)  
 - **Phone:** +91 9258597234  
 - **Portfolio:** 👉 [Click Here](https://anupshahi07.vercel.app/)
 
