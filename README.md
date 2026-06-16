@@ -45,11 +45,11 @@
 **MPS Limited (Contractual)**  
 📅 January 2025 – Present
 
-- Reviewing and proofreading digital content for accuracy and consistency
-- Managing and validating structured data and documentation
-- Supporting quality assurance and publishing workflows
-- Maintaining data accuracy and compliance with project standards
-- Developing strong attention to detail, analytical thinking, and process management skills
+-Processing publisher requests related to journal and editorial information updates.
+-Updating and maintaining editor data across publishing platforms and internal tools.
+-Ensuring data accuracy and consistency based on publisher requirements.
+-Handling high volumes of requests while meeting quality and turnaround standards.
+-Performing quality checks (QC) to maintain accuracy and compliance.
 
 ---
 
