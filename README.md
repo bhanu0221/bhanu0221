@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=3b82f6&lines=Hi+%F0%9F%91%8B+I'm+Anup+Shahi;Aspiring+Web+Developer+%E2%9C%A8;Learning+React+%26+Node.js+%F0%9F%92%BB)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=3b82f6&lines=Hi+%F0%9F%91%8B+I'm+Anup+Shahi;Technology+Enthusiast+%F0%9F%92%BB;Associate+at+MPS+Limited+%F0%9F%92%BC;Exploring+Software+Development+%F0%9F%9A%80)](https://git.io/typing-svg)
 <h1><img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30px"/> Hi, I'm Anup Shahi </h1>
 
 ## Graduate Student  from Doon business school global University, Dehradun • Aspiring **Frontend Developer (React)** • Passionate about building modern and responsive web apps.
