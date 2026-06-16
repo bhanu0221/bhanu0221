@@ -45,11 +45,11 @@
 **MPS Limited (Contractual)**  
 📅 January 2025 – Present
 
--Processing publisher requests related to journal and editorial information updates.
--Updating and maintaining editor data across publishing platforms and internal tools.
--Ensuring data accuracy and consistency based on publisher requirements.
--Handling high volumes of requests while meeting quality and turnaround standards.
--Performing quality checks (QC) to maintain accuracy and compliance.
+* Process and manage publisher requests for journal and editorial data updates.
+* Maintain and update editor information across publishing systems and platforms.
+* Ensure data accuracy, consistency, and compliance with publisher requirements.
+* Handle large volumes of requests within defined turnaround timelines.
+* Conduct quality control (QC) checks to support data integrity and operational standards.
 
 ---
 
